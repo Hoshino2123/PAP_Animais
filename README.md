@@ -6,7 +6,7 @@
 - 📧 Fale comigo no mail : magalhaesp810@gmail.com
 - 📧 Fale comigo no mail secundário : magalhaespt5@gmail.com
 
-👉: Linguagens que uso:
+👉: Linguagens e ferramentas que uso:
 <div style="display: inline-block"<br>
 <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />"
