@@ -12,7 +12,7 @@
     <body>
         <div class="container">
         <h1>login</h1>
-        <img src="img/login.png" width="180" height="180">
+        <img src="C:\Users\asus\Downloads\PAP_PedroMagalhaes-main\PAP_PedroMagalhaes-main\img\login.png" width="180" height="180">
         <form method='POST' action="#">
             <div class="form_input">
             <p>Username</p>
