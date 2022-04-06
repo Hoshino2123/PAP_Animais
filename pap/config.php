@@ -6,9 +6,9 @@ $dbUsername = 'root';
 $dbPassword = '';
 $dbName = 'site';
 
-$conectar = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
+$mysqli = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
 
-if($conectar->connect_erro)
+if($conectar->connect_errno)
 {
     echo "Deu erro";
 }
