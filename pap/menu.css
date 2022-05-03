@@ -7,11 +7,11 @@
 }
 
 body {
-    background: #DC143C;
+    background: darkolivegreen;
 }
 
 nav {
-    background: #0000CD;
+    background: darkgreen;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -51,14 +51,15 @@ nav form {
 }
 
 nav form .procurar-data {
-    height: 40%;
+    height: 100%;
     width: 100%;
     padding: 0 10px;
     color: #483D8B;
     font-weight: 100;
     background: none;
     border: none;
-    font: size 10px;
+    font-size: 10px;
+    text-align: center;
 }
 
 nav form button {
@@ -67,4 +68,5 @@ nav form button {
     border: none;
     cursor: pointer;
     font-size: 10px;
+    text-align: center;
 }

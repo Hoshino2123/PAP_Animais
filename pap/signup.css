@@ -1,6 +1,6 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    
+    background-color: chartreuse;
 }
 .login{
     background-color: rgba(126, 149, 170, 0.6);

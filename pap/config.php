@@ -1,12 +1,13 @@
+
 <?php
 
 
 $dbHost = 'localhost';
-$dbUsername = 'root';
-$dbPassword = '';
-$dbName = 'site';
+$dbUsername= 'root';
+$dbPassword="";
+$dbName='site';
 
-$mysqli = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
+$conectar = mysqli_connect($dbHost,$dbUsername,$dbPassword,$dbName);
 
 if($conectar->connect_errno)
 {
