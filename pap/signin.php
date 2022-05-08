@@ -1,6 +1,5 @@
 <?php
 
-$mysqli_sql_exception="";
 
 $conn = new mysqli('localhost','root','','site');
 if($conn->connect_error){
