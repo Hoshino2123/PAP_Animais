@@ -1,4 +1,4 @@
-let creating = document.querySelector("#create").addEventListener('click', Submit)
+let creating = document.querySelector("#Submit").addEventListener('click', Submit)
 
 const dados = [
     
