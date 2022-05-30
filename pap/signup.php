@@ -20,7 +20,7 @@
     
    else
    {
-       $alert = "script('Estáerrado');</script";
+       $alert = "script('Estáerrado');</script>";
        echo $alert;
    }
 
@@ -54,26 +54,22 @@
 
         <div class="login">   
             <h1>Criar conta</h1>   
-            <form action="signup.php" method="POST">
+            <form action="" method="POST">
         <input type="text" name="user" placeholder="Digite Seu Username" required id="user">
         <br>
-        <input type="text" name="email" placeholder="Digite Seu E-mail" required id="email">
+        <input type="email" name="email" placeholder="Digite Seu E-mail" required id="email">
         <br>
         <input type="password" name="pass" placeholder="password" required id="pass">
         <br>
         <input type="password" name="confirmpass" placeholder="Confirmar pass" required id="confirmpass">
         <br>
         <div class="Submit">
-        <input type="Submit" id="Submit" value="Criar Conta">
+        <input type="Submit" name="Submit" id="Submit" value="Criar Conta">
  </form>
-
-
-        </div>
-
-
-      
         </div>
 
     <script type="text/javascript" src="signUP.Js"></script>
+    
 </body>
+
 </html>

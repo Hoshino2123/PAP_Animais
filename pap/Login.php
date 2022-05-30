@@ -24,7 +24,7 @@
         <div class="login"> 
             <h1>Login</h1>
             
-            <form action="Login.php" method="post">
+            <form action="paginainicial.html" method="post">
             
             <input type="text" placeholder="Username" onclick="move()">
             <br><br>
