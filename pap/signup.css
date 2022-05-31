@@ -1,6 +1,5 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-color: chartreuse;
     border: none;
 }
 .login{
@@ -23,7 +22,7 @@ input{
     cursor: pointer;
 }
 #Submit{
-    background-color: blue;   
+    background-color:blue;   
     border: none;
     padding: 2px;
     width: 100%;
