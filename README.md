@@ -32,6 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
   <a href="https://twitter.com/ZxDeadpool2Xx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/pedro-magalh%C3%A3es-909508231/" target="_blan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/ZxDeadpool2xx" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-
+ <a href="https://www.twitch.tv/xxd3a2p00lx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ 
  
   </div>
